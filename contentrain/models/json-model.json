@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "name": "testfield",
+    "fieldId": "testfield",
+    "modelId": "json-model",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
+  }
+]
